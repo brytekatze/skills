@@ -10,7 +10,6 @@ Analyze code diffs and generate standardized commit messages or Pull Request des
 
 ## General Rules
 - The output language must strictly be English.
-- Never execute the commit or PR automatically. Only generate the requested text for user review and validation.
 
 ## Task 1: Commits
 1. Generate a single line of text.
