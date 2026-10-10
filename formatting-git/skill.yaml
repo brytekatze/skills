@@ -1,0 +1,10 @@
+name: formatting-git
+version: 1.0.0
+description: Analyzes code diffs and outputs standardized commit messages or PR descriptions based on Conventional Commits.
+author: brytekatze
+entrypoint: SKILL.md
+triggers:
+  - "commit"
+  - "pull request"
+  - "pr"
+  - "git"
